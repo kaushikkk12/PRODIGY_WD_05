@@ -27,3 +27,6 @@ To use the Weather Web Application, follow these steps:
 
 ## Support and Feedback
 If you encounter any issues while using the Weather Web Application or have any suggestions for improvement, please feel free to open an issue on the GitHub repository. Your feedback is highly appreciated and will help make the application better for everyone.
+
+## Disclaimer
+The background images used in this project are sourced from copyright-free repositories. No ownership is claimed over these images, and no licenses have been obtained for their usage. If any image infringes upon copyright, please contact immediately for prompt removal.
